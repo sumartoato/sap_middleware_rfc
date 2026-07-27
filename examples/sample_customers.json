@@ -22,5 +22,13 @@
     "ORT01": "Boston",
     "PSTLZ": "02108",
     "STRAS": "1 Beacon St"
+  },
+  {
+    "KUNNR": "0000000001",
+    "NAME1": "Ato Customers 1",
+    "LAND1": "ID",
+    "ORT01": "Tasikmalaya",
+    "PSTLZ": "46417",
+    "STRAS": "Cigorowek street"
   }
 ]
