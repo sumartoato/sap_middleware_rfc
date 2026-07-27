@@ -10,7 +10,7 @@ services:
       MARIADB_USER: sap
       MARIADB_PASSWORD: sap
     ports:
-      - "3306:3306"
+      - "3307:3306"
     volumes:
       - mariadb_data:/var/lib/mysql
 
@@ -22,7 +22,7 @@ services:
       POSTGRES_USER: sap
       POSTGRES_PASSWORD: sap
     ports:
-      - "5432:5432"
+      - "5434:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
