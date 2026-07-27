@@ -1,0 +1,10 @@
+SQLAlchemy>=2.0
+PyMySQL>=1.1        # MariaDB/MySQL driver
+psycopg2-binary>=2.9 # PostgreSQL driver
+python-dotenv>=1.0
+
+# Real SAP RFC connectivity (optional, needed only when SAP_MOCK_MODE=false).
+# pyrfc is NOT a regular PyPI wheel: it must be built/installed against the
+# SAP NW RFC SDK you download from https://support.sap.com (S-user required).
+# See README.md "Real SAP connection" section before uncommenting.
+# pyrfc>=3.3

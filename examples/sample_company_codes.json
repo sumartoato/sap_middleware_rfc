@@ -1,0 +1,17 @@
+[
+  {
+    "BUKRS": "1000",
+    "BUTXT": "IDES AG",
+    "WAERS": "Frankfurt"
+  },
+  {
+    "BUKRS": "2000",
+    "BUTXT": "IDES US INC",
+    "WAERS": "New York"
+  },
+  {
+    "BUKRS": "3000",
+    "BUTXT": "IDES UK LTD.",
+    "WAERS": "London"
+  }
+]

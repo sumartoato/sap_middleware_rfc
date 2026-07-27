@@ -1,0 +1,26 @@
+[
+  {
+    "KUNNR": "0000001032",
+    "NAME1": "Becker Berlin",
+    "LAND1": "DE",
+    "ORT01": "Berlin",
+    "PSTLZ": "10115",
+    "STRAS": "Motzstr. 34"
+  },
+  {
+    "KUNNR": "0000001172",
+    "NAME1": "Auto-Schmidt GmbH",
+    "LAND1": "DE",
+    "ORT01": "Stuttgart",
+    "PSTLZ": "70173",
+    "STRAS": "Konigstr. 12"
+  },
+  {
+    "KUNNR": "0000002365",
+    "NAME1": "Round Table Co.",
+    "LAND1": "US",
+    "ORT01": "Boston",
+    "PSTLZ": "02108",
+    "STRAS": "1 Beacon St"
+  }
+]
